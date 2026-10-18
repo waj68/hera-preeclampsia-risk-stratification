@@ -1,3 +1,5 @@
+> **Status: work in progress.** The analysis notebook and synthetic-data generator will be added to this repository; the results below are from the completed analysis.
+
 # HERA – Early Pregnancy Preeclampsia Risk Stratification
 
 Early-pregnancy preeclampsia risk stratification using routinely collected clinical data (applied epidemiology).
